@@ -1,0 +1,12 @@
+{
+    "blacklistHosts": [
+        "googletagmanager.com",
+        "c.amazon-adsystem.com",
+        "c.aaxads.com",
+        "aaxads.com",
+        "redditmedia.com",
+        "redditstatic.com",
+        "www.redditstatic.com",
+        "https://www.reddit.com/sw.js"
+    ]
+}
